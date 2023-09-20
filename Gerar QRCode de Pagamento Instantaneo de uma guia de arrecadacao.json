@@ -1,0 +1,21 @@
+{
+	"numeroConvenio": 78806,
+	"indicadorCodigoBarras": "N",
+	"codigoGuiaRecebimento": "MjAyMy0wOS0xMVQyMDowMzo1NS4wNDAxNzA",
+	"emailDevedor": "arrecadacao.pix@bb.com.br",
+	"codigoPaisTelefoneDevedor": 55,
+	"dddTelefoneDevedor": 61,
+	"numeroTelefoneDevedor": "993335678",
+	"codigoSolicitacaoBancoCentralBrasil": "arrecadacao.pix@bb.com.br",
+	"descricaoSolicitacaoPagamento": "Taxa de limpeza urbana ano competência 2021",
+	"valorOriginalSolicitacao": 84.33,
+	"cpfDevedor": "21271385465",
+	"nomeDevedor": "OzeiasPereiraRocha",
+	"quantidadeSegundoExpiracao": 360000,
+	"listaInformacaoAdicional": [
+		{
+			"codigoInformacaoAdicional": "IPTU",
+			"textoInformacaoAdicional": "COTAÚNICA2021"
+		}
+	]
+}
